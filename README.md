@@ -7,4 +7,3 @@ Interesting and fun mini-projects!<br>
 <br>[- Password Generator](https://github.com/LyudmilLilov/Mini-projects/tree/main/Password%20Generator)
 <br>[- Weight conversion 🏋️](https://github.com/LyudmilLilov/Mini-projects/tree/main/Weight%20conversion)
 <br>[- Temperature conversion program 🌡️](https://github.com/LyudmilLilov/Mini-projects/tree/main/Temperature%20conversion%20program)
-<br> - Counter program
